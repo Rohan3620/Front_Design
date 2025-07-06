@@ -1,0 +1,46 @@
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+
+.image {
+    width: 100%; /* Adjust as necessary */
+    height: auto; /* Adjust as necessary */
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    color: white; /* Text color */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.btn {
+    background-color: white; /* Button background color */
+    color: black; /* Button text color */
+    border: none; /* Remove border */
+    padding: 10px 20px; /* Button padding */
+    cursor: pointer; /* Pointer cursor on hover */
+}
+
+.btn:hover {
+    background-color: darkgreen; /* Darker shade on hover */
+}
+* {
+    box-sizing: border-box; /* Include padding and border in element's total width and height */
+}
+
+body {
+    margin: 0; /* Remove default margin */
+}
+
+
+

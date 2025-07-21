@@ -9,7 +9,7 @@
 ## 🌐 Preview
 
 <p align="center">
-  <img src="./preview.png" alt="Preview Screenshot" width="80%">
+  <img src="./Project1.png" alt="Preview Screenshot" width="80%">
 </p>
 
 ---

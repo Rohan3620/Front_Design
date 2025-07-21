@@ -6,6 +6,14 @@
 
 ---
 
+## 🌐 Preview
+
+<p align="center">
+  <img src="./preview.png" alt="Preview Screenshot" width="80%">
+</p>
+
+---
+
 ## 📌 Overview
 
 🚀 This project replicates a WordPress-style frontend layout using:
@@ -43,13 +51,6 @@ The page is designed around a yoga/fitness concept (`Balasana.html`) with full l
 - 🧑‍🎓 Web design learners (BCA/B.Tech)
 - 🧪 UI clone practice
 - 💼 Portfolio projects
-
----
-
-## 🌐 Preview
-
-You can open the `Balasana.html` file in your browser to view the template locally.  
-📸 *Add a screenshot here for better preview!*
 
 ---
 

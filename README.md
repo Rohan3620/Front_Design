@@ -1,41 +1,71 @@
-<h1 align="center">🎨 Front_Design - Bootstrap Template Clones</h1>
+<h1 align="center">🎨 Front_Design - Bootstrap Template Clone</h1>
 
 <p align="center">
-  A collection of beautiful frontend designs built using <b>HTML, CSS, and Bootstrap</b> — inspired by WordPress templates!
+  A responsive frontend page built with <b>HTML, CSS, and Bootstrap</b>, inspired by WordPress template design!
 </p>
 
 ---
 
 ## 📌 Overview
 
-🚀 This repository showcases **frontend designs** where I’ve recreated layouts inspired by premium WordPress templates using:
+🚀 This project replicates a WordPress-style frontend layout using:
 
-- ✅ HTML5  
-- ✅ CSS3  
-- ✅ Bootstrap (Responsive Design)
+- 🧱 **HTML5** for structure  
+- 🎨 **CSS3** for styling  
+- 🌀 **Bootstrap** for responsiveness
 
-These designs are fully responsive, visually appealing, and perfect for practicing **real-world UI layout cloning**.
-
----
-
-## 🧱 What’s Inside?
-
-- 💠 Multiple UI components & page layouts  
-- 🧪 Practice in replicating professional template structure  
-- 📱 Mobile-responsive using Bootstrap grid system  
-- 🎨 Custom CSS styling + animations
+The page is designed around a yoga/fitness concept (`Balasana.html`) with full layout and styling.
 
 ---
 
-## 🛠 Tech Stack
+## 📁 Files Included
 
-| Tech        | Purpose                       |
-|-------------|-------------------------------|
-| HTML        | Structure of web pages        |
-| CSS         | Styling and layout            |
-| Bootstrap   | Responsive & component-based UI |
+| File/Folder           | Description                          |
+|-----------------------|--------------------------------------|
+| `Balasana.html`       | Main HTML page (Yoga Template)       |
+| `style.css`           | Custom styles for the page           |
+| `.webp` images        | Template images (yoga, wellness, etc.) |
+| `.gitattributes`      | Git formatting and language hints    |
 
 ---
 
-## 📂 Folder Structure
+## ✨ Features
 
+- 💻 Responsive layout using **Bootstrap Grid**
+- 📷 Clean visual design with **custom image content**
+- 🎯 Good for beginners practicing frontend clones
+- ⚡ Fast and minimal — no JS needed!
+
+---
+
+## 📚 Use Case
+
+- 🧑‍🎓 Web design learners (BCA/B.Tech)
+- 🧪 UI clone practice
+- 💼 Portfolio projects
+
+---
+
+## 🌐 Preview
+
+You can open the `Balasana.html` file in your browser to view the template locally.  
+📸 *Add a screenshot here for better preview!*
+
+---
+
+## 💡 Future Improvements
+
+- Add **JavaScript** for dynamic features  
+- Add more templates for different sections (Home, Services, Contact, etc.)  
+- Responsive navbar or sticky menu
+
+---
+
+## 👨‍💻 Author
+
+Made with ❤️ by [Rohan Mishra](https://github.com/Rohan3620)  
+🎓 BCA 3rd Sem | Frontend Learner | Dreaming Big 🚀
+
+---
+
+⭐ If you like this design, consider giving a **star** and checking out my [portfolio](https://your-portfolio-link)!
